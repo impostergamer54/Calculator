@@ -101,7 +101,7 @@ a {
   cursor: pointer;
 }
 .tweet-icon {
-  margin-right: 12px;
-  all: unset;
-  cursor: pointer;
+  margin-right: 10px;
+  border: none;
+  background: none;
 }

@@ -100,8 +100,8 @@ a {
   all: unset;
   cursor: pointer;
 }
-.tweet-button {
-  margin-left: 50px;
+.tweet-icon {
+  margin-right: 10px;
   all: unset;
   cursor: pointer;
 }

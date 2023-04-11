@@ -100,3 +100,8 @@ a {
   all: unset;
   cursor: pointer;
 }
+.tweet-button {
+    margin-right: 10px;
+  all: unset;
+  cursor: pointer;
+}
